@@ -54,14 +54,7 @@ cd kiterunner
 sudo make build
 sudo ln -s /opt/kiterunner/dist/kr /usr/bin/kr
 
-# Install Arjun
-cd /opt
-sudo git clone https://github.com/s0md3v/Arjun.git
-
-# Install SecLists
-sudo wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
-&& sudo unzip SecList.zip \
-&& sudo rm -f SecList.zip
+pip install arjun 
 
 # Install Hacking-APIs
 sudo wget -c https://github.com/hAPI-hacker/Hacking-APIs/archive/refs/heads/main.zip -O HackingAPIs.zip \
