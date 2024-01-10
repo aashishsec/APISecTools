@@ -53,5 +53,5 @@ The script installs the following tools:
 
 ### Support and Issues
 
-For support and reporting issues, visit the [GitHub repository](https://github.com/yourusername/install_api_security_tools).
+For support and reporting issues, visit the [GitHub repository](https://github.com/aashishsec/APISecTools)https://github.com/aashishsec/APISecTools).
 
