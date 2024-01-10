@@ -48,7 +48,6 @@ The script installs the following tools:
 - **The JSON Web Token Toolkit v2:** Toolkit for working with JSON Web Tokens.
 - **Kiterunner:** API testing and discovery tool.
 - **Arjun:** HTTP parameter discovery suite.
-- **SecLists:** Collection of security-related lists.
 - **Hacking-APIs:** API hacking resources.
 
 ### Support and Issues
