@@ -19,7 +19,7 @@ This script automates the installation of various API security testing tools on 
 
 1. **Download the Script:**
     ```bash
-    wget https://example.com/install_api_security_tools.sh
+    wget https://example.com/install_api_security_tools.sh](https://raw.githubusercontent.com/aashishsec/APISecTools/main/APITools.sh
     ```
 
 2. **Make it Executable:**
